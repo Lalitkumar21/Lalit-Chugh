@@ -1,4 +1,4 @@
-Python program to hack capture file using wordlist.
+Python program to decrypt capture(cap) file using wordlist.
 #Pythontool
 
 Follow steps to use tool:
